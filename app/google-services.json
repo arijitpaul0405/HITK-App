@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947564387643",
+    "project_id": "school-app-811cf",
+    "storage_bucket": "school-app-811cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947564387643:android:14cd7d377d8de5685aeb1e",
+        "android_client_info": {
+          "package_name": "com.example.hitkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947564387643-50jbjr44k6o03ajshks058oki665dh61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs5C2fMtvx6PU1QI95IZj-sYRmmFQsdjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947564387643-50jbjr44k6o03ajshks058oki665dh61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

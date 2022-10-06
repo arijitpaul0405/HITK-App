@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TimeTableActivity"
+    android:background="@color/dark_yellow"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btech1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal= "20dp"
+        android:layout_marginVertical="10dp"
+        android:backgroundTint="@color/light_yellow"
+        android:text="@string/b_tech_1st_year"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        android:elevation="20dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btech2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal= "20dp"
+        android:layout_marginVertical="10dp"
+        android:backgroundTint="@color/light_yellow"
+        android:text="@string/b_tech_2nd_year"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        android:elevation="20dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btech3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal= "20dp"
+        android:layout_marginVertical="10dp"
+        android:backgroundTint="@color/light_yellow"
+        android:text="@string/b_tech_3rd_year"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        android:elevation="20dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btech4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal= "20dp"
+        android:layout_marginVertical="10dp"
+        android:backgroundTint="@color/light_yellow"
+        android:text="@string/b_tech_4th_year"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        android:elevation="20dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/mca1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal= "20dp"
+        android:layout_marginVertical="10dp"
+        android:backgroundTint="@color/light_yellow"
+        android:text="@string/mca_1st_year"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        android:elevation="20dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/mca2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal= "20dp"
+        android:layout_marginVertical="10dp"
+        android:backgroundTint="@color/light_yellow"
+        android:text="@string/mca_2nd_year"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        android:elevation="20dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/mtech1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal= "20dp"
+        android:layout_marginVertical="10dp"
+        android:backgroundTint="@color/light_yellow"
+        android:text="@string/m_tech_1st_year"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        android:elevation="20dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/mtech2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal= "20dp"
+        android:layout_marginVertical="10dp"
+        android:backgroundTint="@color/light_yellow"
+        android:text="@string/m_tech_2nd_year"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:cornerRadius="20dp"
+        android:elevation="20dp"/>
+
+</LinearLayout>
